@@ -1,0 +1,56 @@
+inheritance 
+Private class A extends B
+
+
+KiraGaji
+-kira()
+
+AzmanGaji extends KiraGaji
+-kira()
+
+
+method overloading
+- method nama sama, param x sama
+
+method overriding 
+- replace method
+
+Method
+- Contrusctor
+-overloading
+-overiding
+- void
+-super()
+
+" final"
+Object Orinted Programming 
+Tak boleh overide 
+method x boleh overide
+
+v/ property 
+x boleh overide value
+
+class
+adalah blue print 
+
+Object 
+adalah hasil drp blue print
+$age = 10
+int age  = 10; //strong type
+
+byte - intiger ( umur) 
+float -
+short - 
+int 
+ 
+
+
+kuih baulu 
+Acuan = class
+kuih = obj
+
+DEV OP
+1. Download JDK dari oracle website
+2. Install 
+	Ini install ke c:\program files\java\jdk..
+3. set env 
