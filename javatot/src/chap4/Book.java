@@ -12,8 +12,7 @@ public class Book {
     //own by class buku bukan obj buku 
     public static void cetak(){
         System.out.println("Bil buku = " + Book.bil);
-        
-      
+         
     }
     
     Book() {
